@@ -44,4 +44,10 @@ subtitle = ""
   name = "Machine Learning"
   description = "Deep Learning, Reinforcement Learning"
 
+[[feature]]
+  icon = "Web Development"
+  icon_pack = "fab"
+  name = "Python"
+  description = "HTML, CSS, PHP, JSP, AngularJS, Bootstrap"
+
 +++
