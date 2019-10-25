@@ -22,17 +22,17 @@ organizations:
 bio: I am a passionate gamer as well as a full stack developer, currently pursuing my M.sc. in Computer science at University of Victoria.
 
 interests:
-- Artificial Intelligence
 - Machine Learning
 - Reinforcement learning
+- Game Development
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: University of Victoria
-    year: 2019-present
-  - course: MEng in Artificial Intelligence
-    institution: National Institute of Technology
+  - course: M.sc. in Computer Science
+    institution: University of Victoria, Canada
+    year: 2019 - present
+  - course: B.Tech in Information Technology
+    institution: National Institute of Technology, Durgapur, India
     year: 2014
 
 # Social/Academic Networking
