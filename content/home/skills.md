@@ -32,4 +32,16 @@ subtitle = ""
   name = "JavaScript"
   description = ""
 
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "MySQL, PostgreSQL"
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Deep Learning, Reinforcement Learning"
+
 +++
