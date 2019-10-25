@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: M.sc. in Computer Science
+  - course: M.Sc. in Computer Science
     institution: University of Victoria, Canada
     year: 2019 - present
   - course: B.Tech in Information Technology
