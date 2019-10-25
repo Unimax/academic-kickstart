@@ -45,9 +45,29 @@ subtitle = ""
   description = "Deep Learning, Reinforcement Learning"
 
 [[feature]]
-  icon = "Web Development"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "Web Development"
   description = "HTML, CSS, PHP, JSP, AngularJS, Bootstrap"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Other Programing Languages"
+  description = "Golang, C, C++, Groovy"
+
+[[feature]]
+  icon = " user-circle"
+  icon_pack = "fas"
+  name = "Agile Practices"
+  description = "Scrum, Distributed Scrum"
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools & Frameworks"
+  description = "Docker, Kubernetes, gRPC, REST, Git, Electron, Jasper, EMF"
+
+
 
 +++
