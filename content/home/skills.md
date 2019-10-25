@@ -18,13 +18,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "pytorch, numpy"
+  description = "PyTorch, Numpy"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = ""  
+  description = "Hibernate, JDBC, GWT, Spring Boot"  
 
 [[feature]]
   icon = "js"
