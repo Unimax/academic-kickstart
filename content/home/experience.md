@@ -22,9 +22,10 @@ date_format = "Jan 2006"
   company = "*Zillious Solutions*"
   company_url = "www.zillious.com"
   location = "*New Delhi, India*"
-  date_start = "July 2018"
-  date_end = "Dec 2018"
+date_start = "2018-07-01"
+date_end = "2018-12-01"
   description = """
+
 *	Developed a solution for a long-standing issue with java enum reaching its size limit, with minimum changes in the application.
 *	Added support for customizable vouchers and integrated multiple payment gateways including Razorpay, Paytm, etc.
 *	Integrated a pre-developed machine learning model into the application for finding duplicate hotels. Decreased the time for marking duplicate hotels by 90% in live search results for hotels.
@@ -34,8 +35,8 @@ date_format = "Jan 2006"
   company = "Ragequit eSports Solutions"
   company_url = "http://ragequit.in/"
   location = "India"
-  date_start = "Nov 2016"
-  date_end = "Jan 2018"
+  date_start = "2016-06-01"
+  date_end = "2018-01-01"
   description = """
 * From Dec 2016 to June 2017 was part of DOTA 2 ESports team Sponsored by Ragequit eSports Solutions, New Delhi.
 * Runner up in COBX National DOTA 2 tournament (Buriza Team, Hyderabad, May 2017).
@@ -44,13 +45,14 @@ date_format = "Jan 2006"
 * Runner up in Aorus Land DOTA 2 National tournament (Nefarious Team, Bangalore, Jan 2018).
   """
   
+
 [[experience]]
   title = "Software Developer"
   company = "Drishti-Soft Solutions"
   company_url = "https://www.ameyo.com/"
   location = "Gurugram, India"
-  date_start = "June 2014"
-  date_end = "Sep 2016"
+  date_start = "2014-06-01"
+  date_end = "2016-09-01"
   description = """
 * Awarded with Excellence Award 2016 and won /tmp 2014 a 10 days 24x7 coding event.
 * Majorly worked on Ameyo Report, a GWT based front-end, and Jasper based backend; This includes a UI renew, backend enhancements and automating the generation of Transformers, a data de-normalization component, by using EMF modeling. 
@@ -69,10 +71,10 @@ date_format = "Jan 2006"
   company = "Morphing Machines"
   company_url = "https://morphing.in/"
   location = "Bangalore, India"
-  date_start = "June 2013"
-  date_end = "Aug 2013"
+  date_start = "2013-06-01"
+  date_end = "2013-08-01"
   description = """
   * Designed and developed the front-end interface for a research project called ‘Development of A Flexible Framework for A Network On Chip’. We wrote a research paper about it (git.io/Jen9l).
-  """
-  
+    """
+
 +++
