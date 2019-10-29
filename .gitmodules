@@ -1,3 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "publicFiles"]
+	path = publicFiles
+	url = https://github.com/unimax/unimax.github.io.git
+	branch = master
