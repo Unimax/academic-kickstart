@@ -51,7 +51,7 @@ social:
   link: https://www.linkedin.com/in/sunilkumarsheoran/
 - icon: cv
   icon_pack: ai
-  link: https://github.com/Unimax/Resume/raw/master/Sunil%20Resume%20Google%20Co-op.pdf
+  link: https://github.com/Unimax/Resume/raw/master/Sunil_Resume_Co-op.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 
